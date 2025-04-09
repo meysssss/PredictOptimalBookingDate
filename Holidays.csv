@@ -1,0 +1,393 @@
+Country,Holiday Date,Holiday Name,Holiday season?,Peak Season?
+Canada,01/01/2025,New Year's Day,Yes,No
+Canada,04/18-04/21/2025,Easter Long Weekend (Good Friday & Easter Monday),Yes,No
+Canada,05/17-05/19/2025,Victoria Day Long Weekend,Yes,No
+Canada,06/24/2025,Saint-Jean-Baptiste Day ,Yes,No
+Canada,07/01/2025,Canada Day,Yes,No
+Canada,08/02-08/04/2025,Civic Holiday Long Weekend ,Yes,No
+Canada,08/30-09/01/2025,Labour Day Long Weekend,Yes,No
+Canada,09/30/2025,National Day for Truth and Reconciliation,Yes,No
+Canada,10/11-10/13/2025,Thanksgiving Long Weekend,Yes,No
+Canada,11/11/2025,Remembrance Day,Yes,No
+Canada,12/20-12/29/2025,Christmas & Boxing Day Long Weekend,Yes,No
+Canada,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Canada,06/01-08/31/2025,Overall Peak Season,No,Yes
+USA,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+United Kingdom,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+United Kingdom,07/01-08/31/2025,Overall Peak Season,No,Yes
+France,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+France,07/01-08/31/2025,Overall Peak Season,No,Yes
+Netherlands,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Netherlands,12/20/2025-01/10/2026,Overall Peak Season,No,Yes
+Germany,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Germany,07/01-08/31/2025,Overall Peak Season,No,Yes
+Ireland,01/01/2025,New Year's Day,Yes,No
+Ireland,03/17/2025,St. Patrick's Day,Yes,No
+Ireland,04/21/2025,Easter Monday,Yes,No
+Ireland,05/05/2025,Labour Day,Yes,No
+Ireland,12/25/2025,Christmas Day,Yes,No
+Ireland,12/26/2025,St. Stephen's Day,Yes,No
+Ireland,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Ireland,07/01-08/31/2025,Overall Peak Season,No,Yes
+Spain,01/01/2025,New Year's Day,Yes,No
+Spain,01/06/2025,Epiphany,Yes,No
+Spain,04/18/2025,Good Friday,Yes,No
+Spain,05/01/2025,Labour Day,Yes,No
+Spain,08/15/2025,Assumption of Mary,Yes,No
+Spain,10/12/2025,National Day,Yes,No
+Spain,11/01/2025,All Saints' Day,Yes,No
+Spain,12/06/2025,Constitution Day,Yes,No
+Spain,12/25/2025,Christmas Day,Yes,No
+Spain,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Spain,07/01-08/31/2025,Overall Peak Season,No,Yes
+Italy,01/01/2025,New Year's Day,Yes,No
+Italy,01/06/2025,Epiphany,Yes,No
+Italy,04/21/2025,Easter Monday (Pasquetta),Yes,No
+Italy,04/25/2025,Liberation Day,Yes,No
+Italy,05/01/2025,Labour Day,Yes,No
+Italy,06/02/2025,Republic Day,Yes,No
+Italy,08/15/2025,Assumption Day,Yes,No
+Italy,11/01/2025,All Saints' Day,Yes,No
+Italy,12/08/2025,Immaculate Conception,Yes,No
+Italy,12/25/2025,Christmas Day,Yes,No
+Italy,12/26/2025,St. Stephen's Day,Yes,No
+Italy,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Italy,07/01-08/31/2025,Overall Peak Season,No,Yes
+Switzerland,01/01/2025,New Year's Day,Yes,No
+Switzerland,04/18/2025,Good Friday,Yes,No
+Switzerland,04/21/2025,Easter Monday,Yes,No
+Switzerland,05/01/2025,Labour Day,Yes,No
+Switzerland,05/29/2025,Ascension Day,Yes,No
+Switzerland,06/09/2025,Whit Monday,Yes,No
+Switzerland,12/25/2025,Christmas Day,Yes,No
+Switzerland,12/26/2025,St. Stephen's Day,Yes,No
+Switzerland,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Switzerland,07/01-08/31/2025,Overall Peak Season,No,Yes
+Portugal,01/01/2025,New Year's Day,Yes,No
+Portugal,03/04/2025,Carnival,Yes,No
+Portugal,04/25/2025,Freedom Day (Carnation Revolution),Yes,No
+Portugal,05/01/2025,Labour Day,Yes,No
+Portugal,06/10/2025,Portugal Day,Yes,No
+Portugal,08/15/2025,Assumption Day,Yes,No
+Portugal,12/01/2025,Restoration of Independence Day,Yes,No
+Portugal,12/25/2025,Christmas Day,Yes,No
+Portugal,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Portugal,07/01-08/31/2025,Overall Peak Season,No,Yes
+Belgium,01/01/2025,New Year's Day,Yes,No
+Belgium,04/21/2025,Easter Monday,Yes,No
+Belgium,05/01/2025,Labour Day,Yes,No
+Belgium,05/29/2025,Ascension Day,Yes,No
+Belgium,06/09/2025,Pentecost Monday,Yes,No
+Belgium,07/21/2025,National Day,Yes,No
+Belgium,08/15/2025,Assumption Day,Yes,No
+Belgium,11/01/2025,All Saints' Day,Yes,No
+Belgium,11/11/2025,Armistice Day,Yes,No
+Belgium,12/25/2025,Christmas Day,Yes,No
+Belgium,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Belgium,07/01-08/31/2025,Overall Peak Season,No,Yes
+Sweden,01/01/2025,New Year's Day,Yes,No
+Sweden,01/06/2025,Epiphany,Yes,No
+Sweden,04/18/2025,Good Friday,Yes,No
+Sweden,04/21/2025,Easter Monday,Yes,No
+Sweden,05/01/2025,Labour Day,Yes,No
+Sweden,05/29/2025,Ascension Day,Yes,No
+Sweden,06/06/2025,National Day,Yes,No
+Sweden,06/20/2025,Midsummer's Eve,Yes,No
+Sweden,12/25/2025,Christmas Day,Yes,No
+Sweden,12/26/2025,St. Stephen's Day,Yes,No
+Sweden,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Sweden,06/01-08/31/2025,Overall Peak Season,No,Yes
+Norway,01/01/2025,New Year's Day,Yes,No
+Norway,04/17/2025,Maundy Thursday,Yes,No
+Norway,04/18/2025,Good Friday,Yes,No
+Norway,04/21/2025,Easter Monday,Yes,No
+Norway,05/01/2025,Labour Day,Yes,No
+Norway,05/17/2025,Constitution Day,Yes,No
+Norway,05/29/2025,Ascension Day,Yes,No
+Norway,06/09/2025,Pentecost Monday,Yes,No
+Norway,12/25/2025,Christmas Day,Yes,No
+Norway,12/26/2025,Boxing Day,Yes,No
+Norway,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Norway,06/01-08/31/2025,Overall Peak Season,No,Yes
+Denmark,01/01/2025,New Year's Day,Yes,No
+Denmark,04/17/2025,Maundy Thursday,Yes,No
+Denmark,04/18/2025,Good Friday,Yes,No
+Denmark,04/21/2025,Easter Monday,Yes,No
+Denmark,06/05/2025,Constitution Day,Yes,No
+Denmark,12/25/2025,Christmas Day,Yes,No
+Denmark,12/26/2025,Boxing Day,Yes,No
+Denmark,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Denmark,06/01-08/31/2025,Overall Peak Season,No,Yes
+Austria,01/01/2025,New Year's Day,Yes,No
+Austria,01/06/2025,Epiphany,Yes,No
+Austria,04/21/2025,Easter Monday,Yes,No
+Austria,05/01/2025,Labour Day,Yes,No
+Austria,05/29/2025,Ascension Day,Yes,No
+Austria,06/09/2025,Whit Monday,Yes,No
+Austria,10/26/2025,National Day,Yes,No
+Austria,11/01/2025,All Saints' Day,Yes,No
+Austria,12/25/2025,Christmas Day,Yes,No
+Austria,12/26/2025,St. Stephen's Day,Yes,No
+Austria,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Austria,07/01-08/31/2025,Overall Peak Season,No,Yes
+Czech Republic,01/01/2025,New Year's Day,Yes,No
+Czech Republic,04/21/2025,Easter Monday,Yes,No
+Czech Republic,05/01/2025,Labour Day,Yes,No
+Czech Republic,05/08/2025,Liberation Day,Yes,No
+Czech Republic,07/05/2025,St. Cyril and Methodius Day,Yes,No
+Czech Republic,07/06/2025,Jan Hus Day,Yes,No
+Czech Republic,09/28/2025,Czech State Holiday,Yes,No
+Czech Republic,10/28/2025,Independent Czechoslovak State Day,Yes,No
+Czech Republic,11/17/2025,Struggle for Freedom and Democracy Day,Yes,No
+Czech Republic,12/25/2025,Christmas Day,Yes,No
+Czech Republic,12/26/2025,St. Stephen's Day,Yes,No
+Czech Republic,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Czech Republic,07/01-08/31/2025,Overall Peak Season,No,Yes
+Greece,01/01/2025,New Year's Day,Yes,No
+Greece,01/06/2025,Epiphany,Yes,No
+Greece,03/25/2025,Independence Day,Yes,No
+Greece,05/05/2025,Orthodox Easter Monday,Yes,No
+Greece,05/01/2025,Labour Day,Yes,No
+Greece,08/15/2025,Assumption,Yes,No
+Greece,10/28/2025,Ochi Day,Yes,No
+Greece,12/25/2025,Christmas Day,Yes,No
+Greece,12/26/2025,Boxing Day,Yes,No
+Greece,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Greece,07/01-08/31/2025,Overall Peak Season,No,Yes
+Finland,01/01/2025,New Year's Day,Yes,No
+Finland,01/06/2025,Epiphany,Yes,No
+Finland,04/18/2025,Good Friday,Yes,No
+Finland,04/21/2025,Easter Monday,Yes,No
+Finland,05/01/2025,Vappu (Labour Day),Yes,No
+Finland,05/29/2025,Ascension Day,Yes,No
+Finland,06/20/2025,Midsummer's Eve,Yes,No
+Finland,06/21/2025,Midsummer's Day,Yes,No
+Finland,12/06/2025,Independence Day,Yes,No
+Finland,12/25/2025,Christmas Day,Yes,No
+Finland,12/26/2025,Boxing Day,Yes,No
+Finland,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Finland,06/01-08/31/2025,Overall Peak Season,No,Yes
+Japan,01/01/2025,New Year's Day,Yes,No
+Japan,01/13/2025,Coming of Age Day,Yes,No
+Japan,03/20/2025,Vernal Equinox Day,Yes,No
+Japan,04/29/2025,Showa Day,Yes,No
+Japan,05/03/2025,Constitution Memorial Day,Yes,No
+Japan,05/04/2025,Greenery Day,Yes,No
+Japan,05/05/2025,Children's Day,Yes,No
+Japan,07/21/2025,Marine Day,Yes,No
+Japan,08/11/2025,Mountain Day,Yes,No
+Japan,09/15/2025,Respect for the Aged Day,Yes,No
+Japan,09/23/2025,Autumnal Equinox Day,Yes,No
+Japan,10/13/2025,Health and Sports Day,Yes,No
+Japan,11/03/2025,Culture Day,Yes,No
+Japan,11/23/2025,Labour Thanksgiving Day,Yes,No
+Japan,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Japan,04/29-05/05/2025,Golden Week,Yes,Yes
+Japan,07/01-08/31/2025,Overall Peak Season,No,Yes
+South Korea,01/01/2025,New Year's Day,Yes,No
+South Korea,02/09-02/11/2025,Seollal (Lunar New Year),Yes,No
+South Korea,03/01/2025,Independence Movement Day,Yes,No
+South Korea,05/05/2025,Children's Day,Yes,No
+South Korea,05/15/2025,Buddha's Birthday,Yes,No
+South Korea,06/06/2025,Memorial Day,Yes,No
+South Korea,08/15/2025,Liberation Day,Yes,No
+South Korea,09/29-10/01/2025,Chuseok,Yes,No
+South Korea,10/03/2025,National Foundation Day,Yes,No
+South Korea,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+South Korea,07/01-08/31/2025,Overall Peak Season,No,Yes
+China,01/01/2025,New Year's Day,Yes,No
+China,01/29-02/06/2025,Chinese New Year,Yes,No
+China,04/04/2025,Qingming Festival,Yes,No
+China,05/01/2025,Labour Day,Yes,No
+China,06/10/2025,Dragon Boat Festival,Yes,No
+China,09/17/2025,Mid-Autumn Festival,Yes,No
+China,10/01-10/07/2025,National Day (Golden Week),Yes,Yes
+China,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+China,10/01-10/07/2025,Overall Peak Season,No,Yes
+Hong Kong,01/01/2025,New Year's Day,Yes,No
+Hong Kong,01/29-02/06/2025,Lunar New Year,Yes,No
+Hong Kong,04/04/2025,Ching Ming Festival,Yes,No
+Hong Kong,05/01/2025,Labour Day,Yes,No
+Hong Kong,06/10/2025,Tuen Ng Festival,Yes,No
+Hong Kong,09/17/2025,Mid-Autumn Festival,Yes,No
+Hong Kong,10/01/2025,National Day,Yes,No
+Hong Kong,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Hong Kong,10/01-10/07/2025,Overall Peak Season,No,Yes
+Singapore,01/01/2025,New Year's Day,Yes,No
+Singapore,01/29-02/06/2025,Chinese New Year,Yes,No
+Singapore,04/18/2025,Good Friday,Yes,No
+Singapore,05/01/2025,Labour Day,Yes,No
+Singapore,05/30/2025,Vesak Day,Yes,No
+Singapore,08/09/2025,National Day,Yes,No
+Singapore,10/31/2025,Deepavali,Yes,No
+Singapore,12/25/2025,Christmas Day,Yes,No
+Singapore,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Singapore,08/01-09/30/2025,Overall Peak Season,No,Yes
+Thailand,01/01/2025,New Year's Day,Yes,No
+Thailand,03/03/2025,Makha Bucha,Yes,No
+Thailand,04/13-04/15/2025,Songkran Festival,Yes,No
+Thailand,05/04/2025,Coronation Day,Yes,No
+Thailand,05/01/2025,Labour Day,Yes,No
+Thailand,05/23/2025,Visakha Bucha,Yes,No
+Thailand,07/21/2025,Asalha Bucha,Yes,No
+Thailand,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Thailand,11/01-04/30/2025,Overall Peak Season,No,Yes
+Malaysia,01/01/2025,New Year's Day,Yes,No
+Malaysia,01/29-02/06/2025,Chinese New Year,Yes,No
+Malaysia,05/01/2025,Labour Day,Yes,No
+Malaysia,04/21-04/23/2025,Hari Raya Puasa,Yes,No
+Malaysia,08/31/2025,Hari Merdeka,Yes,No
+Malaysia,09/16/2025,Malaysia Day,Yes,No
+Malaysia,11/01/2025,Deepavali,Yes,No
+Malaysia,12/25/2025,Christmas Day,Yes,No
+Malaysia,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Malaysia,11/01-03/31/2025,Overall Peak Season,No,Yes
+Philippines,01/01/2025,New Year's Day,Yes,No
+Philippines,04/17-04/21/2025,Holy Week,Yes,No
+Philippines,06/12/2025,Independence Day,Yes,No
+Philippines,08/25/2025,National Heroes Day,Yes,No
+Philippines,11/30/2025,Bonifacio Day,Yes,No
+Philippines,12/30/2025,Rizal Day,Yes,No
+Philippines,12/25/2025,Christmas Day,Yes,No
+Philippines,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Philippines,12/15-01/15/2026,Overall Peak Season,No,Yes
+India,01/01/2025,New Year's Day,Yes,No
+India,01/26/2025,Republic Day,Yes,No
+India,03/19/2025,Holi,Yes,No
+India,08/15/2025,Independence Day,Yes,No
+India,10/02/2025,Gandhi Jayanti,Yes,No
+India,11/12/2025,Diwali,Yes,No
+India,12/25/2025,Christmas Day,Yes,No
+India,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+India,12/15-01/15/2026,Overall Peak Season,No,Yes
+United Arab Emirates,01/01/2025,New Year's Day,Yes,No
+United Arab Emirates,03/31-04/03/2025,Eid Al Fitr,Yes,No
+United Arab Emirates,06/13-06/16/2025,Eid Al Adha,Yes,No
+United Arab Emirates,12/02/2025,National Day,Yes,No
+United Arab Emirates,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+United Arab Emirates,12/01-01/15/2026,Overall Peak Season,No,Yes
+Qatar,01/01/2025,New Year's Day,Yes,No
+Qatar,03/31-04/03/2025,Eid Al Fitr,Yes,No
+Qatar,06/13-06/16/2025,Eid Al Adha,Yes,No
+Qatar,12/18/2025,National Day,Yes,No
+Qatar,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Qatar,12/01-01/15/2026,Overall Peak Season,No,Yes
+Oman,01/01/2025,New Year's Day,Yes,No
+Oman,03/31-04/03/2025,Eid Al Fitr,Yes,No
+Oman,06/13-06/16/2025,Eid Al Adha,Yes,No
+Oman,11/18/2025,National Day,Yes,No
+Oman,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Oman,12/01-01/15/2026,Overall Peak Season,No,Yes
+Mexico,01/01/2025,New Year's Day,Yes,No
+Mexico,02/03/2025,Constitution Day,Yes,No
+Mexico,03/21/2025,Benito Juárez's Birthday,Yes,No
+Mexico,05/01/2025,Labour Day,Yes,No
+Mexico,09/16/2025,Independence Day,Yes,No
+Mexico,11/17/2025,Revolution Day,Yes,No
+Mexico,12/25/2025,Christmas Day,Yes,No
+Mexico,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Mexico,06/01-08/31/2025,Overall Peak Season,No,Yes
+Dominican Republic,01/01/2025,New Year's Day,Yes,No
+Dominican Republic,02/27/2025,Independence Day,Yes,No
+Dominican Republic,08/16/2025,Restoration Day,Yes,No
+Dominican Republic,12/25/2025,Christmas Day,Yes,No
+Dominican Republic,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Dominican Republic,12/15-01/15/2026,Overall Peak Season,No,Yes
+Jamaica,01/01/2025,New Year's Day,Yes,No
+Jamaica,08/06/2025,Independence Day,Yes,No
+Jamaica,08/01/2025,Emancipation Day,Yes,No
+Jamaica,12/25/2025,Christmas Day,Yes,No
+Jamaica,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Jamaica,06/01-08/31/2025,Overall Peak Season,No,Yes
+Cuba,01/01/2025,New Year's Day,Yes,No
+Cuba,07/26/2025,Revolution Day,Yes,No
+Cuba,10/10/2025,Independence Day,Yes,No
+Cuba,12/25/2025,Christmas Day,Yes,No
+Cuba,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Cuba,12/15-01/15/2026,Overall Peak Season,No,Yes
+Peru,01/01/2025,New Year's Day,Yes,No
+Peru,04/21/2025,Easter Monday,Yes,No
+Peru,05/01/2025,Labour Day,Yes,No
+Peru,07/28/2025,Independence Day,Yes,No
+Peru,12/25/2025,Christmas Day,Yes,No
+Peru,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Peru,12/15-01/15/2026,Overall Peak Season,No,Yes
+Brazil,01/01/2025,New Year's Day,Yes,No
+Brazil,02/14-02/18/2025,Carnival,Yes,No
+Brazil,04/21/2025,Tiradentes Day,Yes,No
+Brazil,05/01/2025,Labour Day,Yes,No
+Brazil,09/07/2025,Independence Day,Yes,No
+Brazil,10/12/2025,Our Lady of Aparecida,Yes,No
+Brazil,11/02/2025,All Souls' Day,Yes,No
+Brazil,12/25/2025,Christmas Day,Yes,No
+Brazil,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Brazil,12/15-01/15/2026,Overall Peak Season,No,Yes
+Colombia,01/01/2025,New Year's Day,Yes,No
+Colombia,01/20/2025,Epiphany (Observed),Yes,No
+Colombia,05/01/2025,Labour Day,Yes,No
+Colombia,07/20/2025,Independence Day,Yes,No
+Colombia,08/07/2025,Battle of Boyacá,Yes,No
+Colombia,10/13/2025,Columbus Day,Yes,No
+Colombia,11/03/2025,All Saints' Day,Yes,No
+Colombia,12/25/2025,Christmas Day,Yes,No
+Colombia,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Colombia,06/01-08/31/2025,Overall Peak Season,No,Yes
+Chile,01/01/2025,New Year's Day,Yes,No
+Chile,04/18-04/21/2025,Holy Week,Yes,No
+Chile,05/01/2025,Labour Day,Yes,No
+Chile,05/21/2025,Navy Day,Yes,No
+Chile,09/18/2025,National Day,Yes,No
+Chile,09/19/2025,Army Day,Yes,No
+Chile,12/08/2025,Immaculate Conception,Yes,No
+Chile,12/25/2025,Christmas Day,Yes,No
+Chile,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Chile,12/01-02/28/2025,Overall Peak Season,No,Yes
+Australia,01/01/2025,New Year's Day,Yes,No
+Australia,01/26/2025,Australia Day,Yes,No
+Australia,03/03/2025,Labour Day* (varies by state),Yes,No
+Australia,04/25/2025,Anzac Day,Yes,No
+Australia,06/09/2025,Queen's Birthday* (varies),Yes,No
+Australia,12/25/2025,Christmas Day,Yes,No
+Australia,12/26/2025,Boxing Day,Yes,No
+Australia,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Australia,12/01-02/28/2025,Overall Peak Season,No,Yes
+New Zealand,01/01/2025,New Year's Day,Yes,No
+New Zealand,01/02/2025,Day after New Year's Day,Yes,No
+New Zealand,02/06/2025,Waitangi Day,Yes,No
+New Zealand,04/18/2025,Good Friday,Yes,No
+New Zealand,04/21/2025,Easter Monday,Yes,No
+New Zealand,04/25/2025,Anzac Day,Yes,No
+New Zealand,06/02/2025,Queen's Birthday,Yes,No
+New Zealand,10/27/2025,Labour Day,Yes,No
+New Zealand,12/25/2025,Christmas Day,Yes,No
+New Zealand,12/26/2025,Boxing Day,Yes,No
+New Zealand,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+New Zealand,12/01-02/28/2025,Overall Peak Season,No,Yes
+South Africa,01/01/2025,New Year's Day,Yes,No
+South Africa,03/21/2025,Human Rights Day,Yes,No
+South Africa,04/27/2025,Freedom Day,Yes,No
+South Africa,05/01/2025,Workers' Day,Yes,No
+South Africa,06/16/2025,Youth Day,Yes,No
+South Africa,08/09/2025,National Women's Day,Yes,No
+South Africa,09/24/2025,Heritage Day,Yes,No
+South Africa,12/16/2025,Day of Reconciliation,Yes,No
+South Africa,12/25/2025,Christmas Day,Yes,No
+South Africa,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+South Africa,12/01-02/28/2025,Overall Peak Season,No,Yes
+Morocco,01/01/2025,New Year's Day,Yes,No
+Morocco,05/01/2025,Labour Day,Yes,No
+Morocco,07/30/2025,Throne Day,Yes,No
+Morocco,11/18/2025,Independence Day,Yes,No
+Morocco,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Morocco,06/01-08/31/2025,Overall Peak Season,No,Yes
+Algeria,01/01/2025,New Year's Day,Yes,No
+Algeria,07/05/2025,Independence Day,Yes,No
+Algeria,11/01/2025,Revolution Day,Yes,No
+Algeria,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Algeria,06/01-08/31/2025,Overall Peak Season,No,Yes
+Egypt,01/01/2025,New Year's Day,Yes,No
+Egypt,04/21-04/24/2025,Eid Al Fitr,Yes,No
+Egypt,06/30-07/03/2025,Eid Al Adha,Yes,No
+Egypt,07/23/2025,Revolution Day,Yes,No
+Egypt,12/20/2025-01/10/2026,Christmas & New Year Holiday Season,Yes,Yes
+Egypt,06/01-08/31/2025,Overall Peak Season,No,Yes

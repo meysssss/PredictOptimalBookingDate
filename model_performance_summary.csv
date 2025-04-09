@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2
+Decision Tree,92.04,216.39,0.9
+Random Forest,86.58,167.34,0.94
+XGBoost,83.79,158.19,0.95
+Stacking,82.6,157.25,0.95
