@@ -1,54 +1,18 @@
-# React + TypeScript + Vite
+Predict Optimal Booking Date : Forecast the best time to book a flight using a XGboost and Random Forest.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project predicts the optimal booking date for round-trip flights from Canada's five busiest airports. It combines real-time scraped airfare data with ensemble machine learning models to deliver accurate price predictions.
 
-Currently, two official plugins are available:
+Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Web scraping from Kayak to collect flight pricing data
+Data cleaning, preprocessing, and feature engineering
+Models: Decision Tree, Random Forest, XGBoost, and Stacking Ensemble
+Performance metrics: MAE, RMSE, R² (best model R² = 0.96)
+Full-stack web app (Flask + React) for user-friendly interaction
 
-## Expanding the ESLint configuration
+Tech Stack:
+Python 
+Flask 
+React + TypeScript 
+Selenium (web scraping)
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
