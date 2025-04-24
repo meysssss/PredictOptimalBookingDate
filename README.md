@@ -11,8 +11,11 @@ Performance metrics: MAE, RMSE, R² (best model R² = 0.96)
 Full-stack web app (Flask + React) for user-friendly interaction
 
 Tech Stack:
-Python 
+Python
+
 Flask 
+
 React + TypeScript 
+
 Selenium (web scraping)
 
